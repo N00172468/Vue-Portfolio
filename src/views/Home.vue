@@ -1,8 +1,7 @@
 <template>
   <div class="home">
-      <img alt="Vue logo" src="./assets/logo.png">
-      <br/> // Don't use beaks...except for right now lol
-
+      <img alt="Vue logo" src="../assets/logo.png">
+      <br/>
       This is a Home Page
   </div>
 </template>
@@ -11,7 +10,7 @@
 // import HelloWorld from './components/HelloWorld.vue'
 
 export default {
-  name: "Home",
+  name: 'Home',
   components: {
     // HelloWorld
   }

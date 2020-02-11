@@ -11,7 +11,7 @@ export default new Router({
         // All Routes go here!
         {
             path: '/',
-            name: 'home',
+            name: 'Home',
             component: Home
         }
     ]
