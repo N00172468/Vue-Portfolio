@@ -1,6 +1,9 @@
 <template>
   <div class="home">
+      <img alt="Vue logo" src="./assets/logo.png">
+      <br/> // Don't use beaks...except for right now lol
 
+      This is a Home Page
   </div>
 </template>
 
